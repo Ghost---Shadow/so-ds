@@ -1,0 +1,27 @@
+job satisfaction vs work hours - positive correlation
+career type vs work hours - Managerial types work longer
+nationality vs work hours - 7 to 9 hours (SE Asia is worst, 1st world is best)
+
+years coding professionally vs job satisfaction - Pretty flat in USA. Sharp rise and high variance in India.
+country vs job satisfaction - SE Asia is worst, 1st world is best
+orgsize vs job satisfaction - No correlation (smaller is slightly better)
+competence of manager vs country - SE Asia is worst, 1st world is best
+competence of manager vs job satisfaction - Strong correlation
+
+age vs dependents - No:28, Yes:34
+Self confidence vs Job satisfaction - Weak positive correlation
+open source vs job satisfaction - Weak positive correlation
+Self confidence vs salary by country - Significant for India, Insignificant for USA
+Salary vs org size - Bigger is strictly better (largest/smallest = 2x)
+Salary vs years coding professionally - 10% per annum (very noisy)
+
+correlation matrix
+
+Maybe later
+remote vs job satisfaction
+work plan
+OffOn vs age
+age vs social media
+opinion of open source vs years of code
+hobbyist vs open source
+survey length distribution
