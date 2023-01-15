@@ -1,4 +1,4 @@
-# Stackoverflow develoeper Survey Analysis
+# Stackoverflow developer Survey Analysis
 
 https://insights.stackoverflow.com/survey
 
